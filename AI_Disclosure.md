@@ -1,0 +1,5 @@
+Tool	Purpose	Relevant prompt / question	How the response was used
+
+Gemini (Google)	Explanation of the assignment, Python/Jupyter setup errors, concepts (fit/transform, scaling)	"Explain the assignment requirements, help resolve Jupyter environment errors, and clarify fit/transform and feature scaling concepts."	Used to understand assignment guidelines, troubleshoot setup issues, and grasp underlying machine learning concepts before writing code.
+
+Gemini (Google)	Generated the initial code and guidance for figure saving, notebook automation, and GitHub integration	"How do I save matplotlib figures automatically and structure my project repository?"	Reviewed the generated code structure, verified CSV exports and figure generation logic (FIGURES/ folder), and adapted it to fit the final project requirements.
