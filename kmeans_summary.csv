@@ -1,0 +1,5 @@
+dataset,representation,mean_val_ari,std_val_ari,valid_score_count
+breast_cancer,scaled,0.5812545112727957,0.14237768793512956,3
+breast_cancer,unscaled,0.5043486495309917,0.10642336805912421,3
+wine,scaled,1.0,0.0,3
+wine,unscaled,0.3613372200641031,0.06798375472947761,3
